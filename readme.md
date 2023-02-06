@@ -5,7 +5,8 @@ This is a blockchain project aimed at securely storing patient prescriptions in 
 ## Purpose
 
 The main purpose of this project is to provide a secure and efficient platform for communication between patients, doctors, and pharmacists. The platform will be able to filter prescriptions according to the doctor ID, patient ID, and allow each of these groups to access the blockchain for their respective needs.
-Features
+
+## Features
 
   - Secure storage of patient prescriptions in the form of text
    - Front-end in JavaScript for ease of use
@@ -13,7 +14,7 @@ Features
    - Ability to filter prescriptions based on doctor ID and patient ID
    - Accessible to patients, doctors, and pharmacists
 
-##Running the Project
+## Running the Project
 
 1.Start the Python back-end by running the following command in your terminal:
     
